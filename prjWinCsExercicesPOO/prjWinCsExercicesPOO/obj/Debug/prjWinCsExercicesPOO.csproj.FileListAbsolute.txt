@@ -1,0 +1,11 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.frmMacDo.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.frmPrincipal.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\bin\Debug\prjWinCsExercicesPOO.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\bin\Debug\prjWinCsExercicesPOO.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\bin\Debug\prjWinCsExercicesPOO.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExercicesPOO\prjWinCsExercicesPOO\obj\Debug\prjWinCsExercicesPOO.pdb

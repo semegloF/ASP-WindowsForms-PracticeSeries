@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\bin\Debug\prjWinCsTeccart.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\bin\Debug\prjWinCsTeccart.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\bin\Debug\prjWinCsTeccart.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.Form1.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsTeccart\prjWinCsTeccart\obj\Debug\prjWinCsTeccart.pdb

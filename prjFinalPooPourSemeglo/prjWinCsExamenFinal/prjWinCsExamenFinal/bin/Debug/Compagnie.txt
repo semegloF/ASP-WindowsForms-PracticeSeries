@@ -1,0 +1,16 @@
+DR-0012
+Staya Nadella
+CEO
+5000850
+DR-0033
+Bill Gates
+Directeur
+2500200
+CP-0013
+Bella Gates
+Assistante
+1500000
+PG-0004
+Anani Gauthier
+Secretaire
+500000

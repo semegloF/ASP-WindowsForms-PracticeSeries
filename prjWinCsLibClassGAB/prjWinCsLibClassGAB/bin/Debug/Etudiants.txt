@@ -1,0 +1,30 @@
+et021
+Bill Gates
+12
+3
+2000
+92
+et011
+Steve Jobs
+12
+3
+1998
+80
+et321
+Sophie Marceau
+12
+3
+1995
+92
+et456
+Ali Baba
+12
+3
+2002
+57
+et111
+Steve Martin
+12
+3
+2005
+50

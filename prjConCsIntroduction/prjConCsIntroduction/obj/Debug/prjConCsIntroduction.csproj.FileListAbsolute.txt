@@ -1,0 +1,7 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\bin\Debug\prjConCsIntroduction.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\bin\Debug\prjConCsIntroduction.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\bin\Debug\prjConCsIntroduction.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\obj\Debug\prjConCsIntroduction.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\obj\Debug\prjConCsIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\obj\Debug\prjConCsIntroduction.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjConCsIntroduction\prjConCsIntroduction\obj\Debug\prjConCsIntroduction.pdb

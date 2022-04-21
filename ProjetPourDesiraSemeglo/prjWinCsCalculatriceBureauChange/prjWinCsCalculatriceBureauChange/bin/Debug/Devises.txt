@@ -1,0 +1,15 @@
+Canada
+Dollar canadien(CAD)
+1,4694
+Australi
+Dollar australien(AUD)
+1,5963
+Inde
+Roupie indienne(IDR)
+87,1095
+Etats-Unis
+Dollar des Etats-Unis(USD)
+1,1739
+Suisse
+Franc suisse(CHF)
+1,0824

@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\bin\Debug\prjWinCsExamenFinal.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\bin\Debug\prjWinCsExamenFinal.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\bin\Debug\prjWinCsExamenFinal.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.frmExamen.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsExamenFinal\prjWinCsExamenFinal\obj\Debug\prjWinCsExamenFinal.pdb

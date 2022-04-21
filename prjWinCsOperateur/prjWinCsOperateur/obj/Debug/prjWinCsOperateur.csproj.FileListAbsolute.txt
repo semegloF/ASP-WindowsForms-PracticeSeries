@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\bin\Debug\prjWinCsOperateur.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\bin\Debug\prjWinCsOperateur.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\bin\Debug\prjWinCsOperateur.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsOperateur\prjWinCsOperateur\obj\Debug\prjWinCsOperateur.frmOperateur.resources

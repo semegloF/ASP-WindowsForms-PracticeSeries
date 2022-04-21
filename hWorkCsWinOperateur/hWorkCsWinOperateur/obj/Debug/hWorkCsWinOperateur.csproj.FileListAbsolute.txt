@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.HomeWork.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\bin\Debug\hWorkCsWinOperateur.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\bin\Debug\hWorkCsWinOperateur.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\bin\Debug\hWorkCsWinOperateur.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\hWorkCsWinOperateur\hWorkCsWinOperateur\obj\Debug\hWorkCsWinOperateur.exe

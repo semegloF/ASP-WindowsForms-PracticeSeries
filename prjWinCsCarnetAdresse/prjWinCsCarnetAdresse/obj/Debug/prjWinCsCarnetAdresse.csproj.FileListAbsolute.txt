@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\bin\Debug\prjWinCsCarnetAdresse.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\bin\Debug\prjWinCsCarnetAdresse.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\bin\Debug\prjWinCsCarnetAdresse.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.frmAdresse.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCarnetAdresse\prjWinCsCarnetAdresse\obj\Debug\prjWinCsCarnetAdresse.pdb

@@ -1,0 +1,10 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\bin\Debug\homeWorkWinCsClasses.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\bin\Debug\homeWorkWinCsClasses.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\bin\Debug\homeWorkWinCsClasses.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.frmDate.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\homeWorkWinCsClasses\homeWorkWinCsClasses\obj\Debug\homeWorkWinCsClasses.pdb

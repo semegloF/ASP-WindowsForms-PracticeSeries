@@ -1,0 +1,43 @@
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe.config
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csprojAssemblyReference.cache
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.Properties.Resources.resources
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.GenerateResource.cache
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.CoreCompileInputs.cache
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.exe
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmGuichet.resources
+C:\Users\fodep\source\repos\2021\Teccart\ete2021\420POO_grp422\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmDictionary.resources
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe.config
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csprojAssemblyReference.cache
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmDictionary.resources
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.Properties.Resources.resources
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.GenerateResource.cache
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.CoreCompileInputs.cache
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.exe
+C:\Users\fodep\Desktop\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe.config
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csprojAssemblyReference.cache
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmDictionary.resources
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmExamen.resources
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.Properties.Resources.resources
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.GenerateResource.cache
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.CoreCompileInputs.cache
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.exe
+C:\Users\Desira\Downloads\prjWinCsLibClassGAB (1)\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\bin\Debug\prjWinCsLibClassGAB.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmDictionary.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.frmExamen.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsLibClassGAB\prjWinCsLibClassGAB\obj\Debug\prjWinCsLibClassGAB.pdb

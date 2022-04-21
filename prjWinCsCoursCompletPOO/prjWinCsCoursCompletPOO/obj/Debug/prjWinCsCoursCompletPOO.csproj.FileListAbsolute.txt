@@ -1,0 +1,15 @@
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\bin\Debug\prjWinCsCoursCompletPOO.exe.config
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\bin\Debug\prjWinCsCoursCompletPOO.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\bin\Debug\prjWinCsCoursCompletPOO.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.csprojAssemblyReference.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmPrincipal.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.Properties.Resources.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.csproj.GenerateResource.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.csproj.CoreCompileInputs.cache
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.exe
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.pdb
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmBoucle.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmCondition.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmFonction.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmTimesheet.resources
+C:\Users\Desira\source\repos\session4E2021\420POO_grp421\prjWinCsCoursCompletPOO\prjWinCsCoursCompletPOO\obj\Debug\prjWinCsCoursCompletPOO.frmVideo.resources
